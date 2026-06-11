@@ -82,7 +82,7 @@ Machine Learning project for weather forecasting using Python.
 www.linkedin.com/in/utthara-de-silva
 
 📧 Email:
-your-email@example.com
+desilvanimeshi556@gmail.com
 
 ---
 
