@@ -7,7 +7,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Utthhara De Silva</h1>
+<h1 align="center">Hi 👋, I'm Uththara De Silva</h1>
 
 <h3 align="center">Undergraduate at SLIIT | Information Technology Specializing in Data Science</h3>
 
