@@ -34,6 +34,8 @@
 - Java
 - JavaScript
 - SQL
+- C
+- C++
 
 ### Data Analytics & BI
 - Power BI
